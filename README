@@ -41,3 +41,4 @@ udev rules:
 (c) 2012 Sledgehammer Solutions Limited
 
 
+Note by Lukas: you need to install the libusb-dev and related packages for the header files.
